@@ -49,11 +49,3 @@
   </a>
 </p>
 
----
-
-<h3 align="left">💬 Currently Exploring:</h3>
-<ul>
-  <li>Gameplay systems architecture and design tools integration</li>
-  <li>Custom shader logic and VFX using Unity Shader Graph and Unreal’s material editor</li>
-  <li>Optimizing mobile perfo
-
